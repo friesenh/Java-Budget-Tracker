@@ -1,4 +1,4 @@
-package MortgageCalculator;
+package com.javabudgettracker;
 
 import java.text.NumberFormat;
 
